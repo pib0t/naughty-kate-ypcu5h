@@ -20,5 +20,7 @@
   "devDependencies": {
     "nodemon": "^2.0.20"
   },
-  "dependencies": {}
+  "dependencies": {
+    "style-dictionary": "^3.8.0"
+  }
 }

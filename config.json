@@ -1,0 +1,15 @@
+{
+    "source": ["path/to/your/design-tokens.json"],
+    "platforms": {
+      "css": {
+        "transforms": ["value/replace"],
+        "files": [
+          {
+            "destination": "path/to/your/output/variables.css",
+            "format": "css/variables"
+          }
+        ]
+      }
+    }
+  }
+  
